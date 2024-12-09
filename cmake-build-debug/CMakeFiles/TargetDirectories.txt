@@ -1,0 +1,8 @@
+C:/Users/arunc/CLionProjects/testTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arunc/CLionProjects/testTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/arunc/CLionProjects/testTest/cmake-build-debug/codebase/CMakeFiles/MyCodeBase.dir
+C:/Users/arunc/CLionProjects/testTest/cmake-build-debug/codebase/CMakeFiles/edit_cache.dir
+C:/Users/arunc/CLionProjects/testTest/cmake-build-debug/codebase/CMakeFiles/rebuild_cache.dir
+C:/Users/arunc/CLionProjects/testTest/cmake-build-debug/windows/CMakeFiles/WindowsApp.dir
+C:/Users/arunc/CLionProjects/testTest/cmake-build-debug/windows/CMakeFiles/edit_cache.dir
+C:/Users/arunc/CLionProjects/testTest/cmake-build-debug/windows/CMakeFiles/rebuild_cache.dir

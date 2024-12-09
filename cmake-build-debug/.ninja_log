@@ -1,0 +1,6 @@
+# ninja log v6
+5	373	7554647476338362	windows/CMakeFiles/WindowsApp.dir/main.cpp.obj	19e0e148acc167bd
+373	465	7554647480014647	windows/WindowsApp.exe	d9069ab77656eb56
+1	266	7554647651046174	build.ninja	56270a1e0e5d3035
+22	367	7554647191432951	codebase/CMakeFiles/MyCodeBase.dir/src/codebase.cpp.obj	1a25ab6e73c84988
+367	450	7554647194887376	codebase/libMyCodeBase.a	7447c22d8b1de6ed
